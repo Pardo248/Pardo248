@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Pardo </h1>
 
-I am a junior Software Engineering student at the Autonomous University of San Luis Potosí, specializing in artificial intelligence, video game development, and interactive systems. Throughout my academic and professional experience, I have collaborated on AI-based research projects and developed gaming applications using technologies such as TensorFlow, Unity, Roblox Studio, and Godot.
-
-I am passionate about video game development, combining my experience in AI, backend systems, and creative design to create immersive and engaging experiences for players. Currently, I collaborate remotely as a Roblox developer at Karaokulta (An Amber Studio), where I focus on programming, game logic, and interactive world design. My goal is to join a dynamic video game development team where I can continue to learn and apply both my technical expertise and creative mindset to create meaningful gaming experiences.
-
 <h2>Portfolio</h2>
 
 <table>
@@ -80,3 +76,9 @@ I am passionate about video game development, combining my experience in AI, bac
     </tr>
   </tbody>
 </table>
+
+<h2> About me </h2>
+
+I am a junior Software Engineering student at the Autonomous University of San Luis Potosí, specializing in artificial intelligence, video game development, and interactive systems. Throughout my academic and professional experience, I have collaborated on AI-based research projects and developed gaming applications using technologies such as TensorFlow, Unity, Roblox Studio, and Godot.
+
+I am passionate about video game development, combining my experience in AI, backend systems, and creative design to create immersive and engaging experiences for players. Currently, I collaborate remotely as a Roblox developer at Karaokulta (An Amber Studio), where I focus on programming, game logic, and interactive world design. My goal is to join a dynamic video game development team where I can continue to learn and apply both my technical expertise and creative mindset to create meaningful gaming experiences.
