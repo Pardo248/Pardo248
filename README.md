@@ -47,8 +47,8 @@
     <tr>
       <td><strong>MDC</strong></td>
       <td>
-        <a href="https://youtube.com/shorts/ba1rCN7CXu0?feature=share">
-          <img src="https://github.com/Pardo248/Pardo248/blob/main/Images/ChickenPunch.png?raw=true" alt="ChickenPunch" width="300">
+        <a href="https://mdccapacitacion.com/">
+          <img src="https://raw.githubusercontent.com/Pardo248/Pardo248/refs/heads/main/Images/image.png" alt="MDC" width="300">
         </a>
       </td>
       <td>Auditoria UX/UI para mejorar el diseño de una pagina web para una empresa de capacitaciones mejorando la visibilidad a los clientes  </td>
