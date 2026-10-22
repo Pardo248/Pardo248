@@ -7,7 +7,7 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>Click on the image to watch the Gameplay</th>
+      <th>Click on the image to watch more</th>
       <th>Description</th>
       <th>Technologies</th>
     </tr>
@@ -45,14 +45,14 @@
       <td>Unity2D, C# , PixelStudio</td>
     </tr>
     <tr>
-      <td><strong>ChickenPunch</strong></td>
+      <td><strong>MDC</strong></td>
       <td>
         <a href="https://youtube.com/shorts/ba1rCN7CXu0?feature=share">
           <img src="https://github.com/Pardo248/Pardo248/blob/main/Images/ChickenPunch.png?raw=true" alt="ChickenPunch" width="300">
         </a>
       </td>
-      <td>Videojuego desarollado con las librerias de OpenGL con la finalidad de comprender mejor los motores graficos </td>
-      <td>C++, OpenGL</td>
+      <td>Auditoria UX/UI para mejorar el diseño de una pagina web para una empresa de capacitaciones mejorando la visibilidad a los clientes  </td>
+      <td>Figma, Diseño centrado en el usuario, wordpress</td>
     </tr>
     <tr>
       <td><strong>CakeOrder</strong></td>
